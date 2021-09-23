@@ -1,0 +1,5 @@
+1. npm install @material-ui/core   
+2. npm install @material-ui/icons
+3. https://www.npmjs.com/package/react-tinder-card
+   npm i react-tinder-card
+   
